@@ -29,8 +29,6 @@ h3 {
     text-align: center;
 }
 
-
-
 /* Class Selectors */
 .header {
     padding: 20px;
@@ -85,7 +83,7 @@ h3 {
     margin-left: 25px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.services {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -94,11 +92,11 @@ h3 {
     color: #ffffff;
 }
 
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.services img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -114,12 +112,12 @@ h3 {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-brand, .benefit-cost {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
