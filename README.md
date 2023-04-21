@@ -6,7 +6,7 @@ The purpose of this project was to refactor existing code without changing the a
 
 Through this project I was able to familiarize myself with semantic HTML tags, and practice consolidation of CSS to make the document more lightweight, and easier to read.
 
-![img1](assets\images\horiseon-screencap.JPG)
+![screencap](horiseon-screencap.JPG)
 
 ## Usage
 
