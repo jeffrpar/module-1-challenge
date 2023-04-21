@@ -2,9 +2,11 @@
 
 ## Description
 
-The purpose of this project was to refactor existing code without changing the appearance or function of the page. Refactoring consisted largely of consolidating unique classes with the same parameters into the same class, replacing non-semantic HTML tags like <div> with semantic ones like <header>, <main>, <aside>, and <footer>, and reorganizing the associated stylesheet to group similar selector variants together. I also added alt attributes to all images in the document for increased accessibility. Furthermore, I removed unnecessary class attributes from the HTML file, and eliminated unnecessary selector nesting in the CSS file. Lastly, I renamed the title of the page to the company's name.
+The purpose of this project was to refactor existing code without changing the appearance or function of the page. Refactoring consisted largely of consolidating unique classes with the same parameters into the same class, replacing non-semantic HTML tags like div with semantic ones like header, main, aside, and footer, and reorganizing the associated stylesheet to group similar selector variants together. I also added alt attributes to all images in the document for increased accessibility. Furthermore, I removed unnecessary class attributes from the HTML file, and eliminated unnecessary selector nesting in the CSS file. Lastly, I renamed the title of the page to the company's name.
 
 Through this project I was able to familiarize myself with semantic HTML tags, and practice consolidation of CSS to make the document more lightweight, and easier to read.
+
+![img1](assets\images\horiseon-screencap.JPG)
 
 ## Usage
 
